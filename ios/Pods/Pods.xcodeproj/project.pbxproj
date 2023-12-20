@@ -16811,6 +16811,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/CocoaAsyncSocket/CocoaAsyncSocket-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -16841,6 +16845,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/CocoaAsyncSocket/CocoaAsyncSocket-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -16871,6 +16879,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/DoubleConversion/DoubleConversion-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -16902,6 +16914,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/DoubleConversion/DoubleConversion-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -16930,6 +16946,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -16954,6 +16974,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -16977,6 +17001,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17001,6 +17029,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17026,6 +17058,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper/Flipper-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17057,6 +17093,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper/Flipper-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17087,6 +17127,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-Boost-iOSX/Flipper-Boost-iOSX-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17118,6 +17162,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-Boost-iOSX/Flipper-Boost-iOSX-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17145,6 +17193,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17168,6 +17220,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17193,6 +17249,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-Fmt/Flipper-Fmt-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17224,6 +17284,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-Fmt/Flipper-Fmt-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17254,6 +17318,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-Folly/Flipper-Folly-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17285,6 +17353,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-Folly/Flipper-Folly-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17312,6 +17384,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17335,6 +17411,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17359,6 +17439,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-PeerTalk/Flipper-PeerTalk-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17389,6 +17473,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-PeerTalk/Flipper-PeerTalk-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17419,6 +17507,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-RSocket/Flipper-RSocket-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17450,6 +17542,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Flipper-RSocket/Flipper-RSocket-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17480,6 +17576,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/FlipperKit/FlipperKit-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17512,6 +17612,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/FlipperKit/FlipperKit-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17540,6 +17644,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17563,6 +17671,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17587,6 +17699,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/RCT-Folly/RCT-Folly-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17617,6 +17733,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/RCT-Folly/RCT-Folly-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17645,6 +17765,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17669,6 +17793,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17694,6 +17822,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/RCTTypeSafety/RCTTypeSafety-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17726,6 +17858,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/RCTTypeSafety/RCTTypeSafety-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17755,6 +17891,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17779,6 +17919,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17804,6 +17948,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-Codegen/React-Codegen-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17836,6 +17984,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-Codegen/React-Codegen-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17867,6 +18019,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-Core/React-Core-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17931,6 +18087,10 @@
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = NO;
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/React-Core";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				IBSC_MODULE = React;
 				INFOPLIST_FILE = "Target Support Files/React-Core/ResourceBundle-AccessibilityResources-React-Core-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
@@ -17948,6 +18108,10 @@
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = NO;
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/React-Core";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				IBSC_MODULE = React;
 				INFOPLIST_FILE = "Target Support Files/React-Core/ResourceBundle-AccessibilityResources-React-Core-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
@@ -17968,6 +18132,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-CoreModules/React-CoreModules-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -17999,6 +18167,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-CoreModules/React-CoreModules-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18027,6 +18199,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18051,6 +18227,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18076,6 +18256,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTAnimation/React-RCTAnimation-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18107,6 +18291,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTAnimation/React-RCTAnimation-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18137,6 +18325,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTBlob/React-RCTBlob-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18168,6 +18360,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTBlob/React-RCTBlob-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18198,6 +18394,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTImage/React-RCTImage-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18229,6 +18429,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTImage/React-RCTImage-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18259,6 +18463,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTLinking/React-RCTLinking-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18290,6 +18498,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTLinking/React-RCTLinking-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18320,6 +18532,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTNetwork/React-RCTNetwork-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18351,6 +18567,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTNetwork/React-RCTNetwork-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18381,6 +18601,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTSettings/React-RCTSettings-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18412,6 +18636,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTSettings/React-RCTSettings-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18442,6 +18670,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTText/React-RCTText-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18473,6 +18705,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTText/React-RCTText-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18503,6 +18739,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTVibration/React-RCTVibration-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18534,6 +18774,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-RCTVibration/React-RCTVibration-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18564,6 +18808,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-bridging/React-bridging-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18595,6 +18843,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-bridging/React-bridging-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18623,6 +18875,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18647,6 +18903,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18672,6 +18932,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-cxxreact/React-cxxreact-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18703,6 +18967,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-cxxreact/React-cxxreact-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18733,6 +19001,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-jsi/React-jsi-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18764,6 +19036,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-jsi/React-jsi-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18794,6 +19070,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-jsiexecutor/React-jsiexecutor-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18825,6 +19105,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-jsiexecutor/React-jsiexecutor-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18855,6 +19139,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-jsinspector/React-jsinspector-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18886,6 +19174,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-jsinspector/React-jsinspector-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18916,6 +19208,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-logger/React-logger-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18947,6 +19243,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-logger/React-logger-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -18977,6 +19277,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-perflogger/React-perflogger-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19008,6 +19312,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/React-perflogger/React-perflogger-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19036,6 +19344,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19060,6 +19372,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19085,6 +19401,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/ReactCommon/ReactCommon-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19117,6 +19437,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/ReactCommon/ReactCommon-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19148,6 +19472,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/SocketRocket/SocketRocket-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19179,6 +19507,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/SocketRocket/SocketRocket-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19209,6 +19541,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Yoga/Yoga-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19241,6 +19577,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/Yoga/Yoga-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19271,6 +19611,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/YogaKit/YogaKit-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19302,6 +19646,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/YogaKit/YogaKit-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19331,6 +19679,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19355,6 +19707,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19380,6 +19736,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/fmt/fmt-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19411,6 +19771,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/fmt/fmt-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19441,6 +19805,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/glog/glog-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19472,6 +19840,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/glog/glog-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19502,6 +19874,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/libevent/libevent-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19533,6 +19909,10 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				GCC_PREFIX_HEADER = "Target Support Files/libevent/libevent-prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(PODS_ROOT)/Headers/Private/React-bridging/react/bridging\"",
@@ -19563,6 +19943,10 @@
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Calculator/Pods-Calculator.modulemap";
@@ -19586,6 +19970,10 @@
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Calculator/Pods-Calculator.modulemap";
@@ -19608,6 +19996,10 @@
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Calculator-CalculatorTests/Pods-Calculator-CalculatorTests.modulemap";
@@ -19631,6 +20023,10 @@
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					_LIBCPP_ENABLE_CXX17_REMOVED_UNARY_BINARY_FUNCTION,
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Calculator-CalculatorTests/Pods-Calculator-CalculatorTests.modulemap";
