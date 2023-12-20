@@ -12,7 +12,6 @@ const Calculator = () => {
     setState(calculator(type, value, state));
   };
 
-  console.log('test',state);
 
   return (
     <View style={Styles.viewBottom}>
